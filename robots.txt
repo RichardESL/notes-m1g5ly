@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://RichardESL.github.io/notes-m1g5ly/sitemap.xml
